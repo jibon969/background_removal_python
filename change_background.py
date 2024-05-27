@@ -33,8 +33,8 @@ def change_background(input_image_path, background_image_path, output_image_path
         print(f"An error occurred: {e}")
 
 # Example usage
-input_image_path = r'C:/Users/Jibon-Ahmed/Downloads/project/ahmed.png'          
-background_image_path = r'C:/Users/Jibon-Ahmed/Downloads/project/ahmed.png'  
+input_image_path = r'C:/Users/Jibon-Ahmed/Downloads/project/jibon.jpg'          
+background_image_path = r'C:/Users/Jibon-Ahmed/Downloads/project/jibon.jpg'  
 output_image_path = r'C:/Users/Jibon-Ahmed/Downloads/project/output.png'   
 
 change_background(input_image_path, background_image_path, output_image_path)
